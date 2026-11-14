@@ -1,0 +1,26 @@
+[
+  {
+    "campaign_id": 1,
+    "airport_id": 104,
+    "name": "神行加速",
+    "code": "sx0077",
+    "discount": "新用户首单享 7 折",
+    "discount_title": "新用户首单 7 折",
+    "plan": "新用户首单月付及以上；不限时套餐、年付特惠不参与优惠",
+    "period": "以官网活动公告为准",
+    "meta": "支持支付宝、微信与 USDT",
+    "website": "/go/shenxing"
+  },
+  {
+    "campaign_id": 2,
+    "airport_id": 105,
+    "name": "榴莲云机场",
+    "code": "ll88",
+    "discount": "新用户首单享 7 折",
+    "discount_title": "新用户首单 7 折",
+    "plan": "新用户首单月付及以上；不限时套餐、年付特惠不参与优惠",
+    "period": "以官网活动公告为准",
+    "meta": "支持支付宝、微信与 USDT",
+    "website": "/go/liulianyun"
+  }
+]

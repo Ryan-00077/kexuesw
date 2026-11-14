@@ -1,0 +1,20 @@
+{
+  "siteUrl": "https://kexuesw.com",
+  "title": "科学上网 · Node | 机场 VPN 推荐、科学上网机场测评与可靠性榜单",
+  "brandName": "Node",
+  "brandTitle": "科学上网 · Node",
+  "slogan": "行业首创，每日更新",
+  "heroEyebrow": "今日更新 · 透明机制",
+  "heroTitle": "科学上网 · Node：机场 VPN 推荐与可靠性榜单",
+  "heroSubtitle": "基于公开监测数据生成，首页优秀机场公平轮换，并提供长期稳定、性价比、新入榜与风险预警榜单。",
+  "metrics": {
+    "monitoredAirports": 80,
+    "realtimeTests": 108841,
+    "reportTimeText": "9 小时前",
+    "reportTimeAt": "2026-11-09T21:30:16.000Z"
+  },
+  "contact": {
+    "telegram": "https://t.me/kexueshangwang_node",
+    "email": "shenx8017@gmail.com"
+  }
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 科学上网 · Node 主站核心路由 -->
+  <url>
+    <loc>https://kexuesw.com/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/rankings</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/deals</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/tools</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/news</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/methodology</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/risk-monitor</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/apply</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+
+  <!-- 机场深度评测专页 -->
+  <url>
+    <loc>https://kexuesw.com/airports/shenxing</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/airports/dalaoyun</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/airports/yunjiexian</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/airports/liulianyun</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/airports/shandianshu</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://kexuesw.com/airports/huanqiuti</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+</urlset>

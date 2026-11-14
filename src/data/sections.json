@@ -1,0 +1,756 @@
+{
+  "today_pick": {
+    "title": "科学上网 · Node 优秀机场",
+    "subtitle": "每 1 小时 轮换展示，每轮各机场依次获得首位；评分供参考，综合排名请查看机场排行。",
+    "items": [
+      {
+        "type": "stable",
+        "airport_id": 62,
+        "name": "Now加速·原生IP机场",
+        "website": "https://go.noww.cc/#/register?code=Ooe8jDtv",
+        "tags": [
+          "IEPL专线",
+          "晚高峰稳定",
+          "AI全解锁"
+        ],
+        "score": 92.49,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.03
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "178 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "长期稳定"
+          }
+        ],
+        "conclusion": "亮点：当前已连续保持 30 天健康记录，长期使用更省心。",
+        "report_url": "/airports/nowjiasu"
+      },
+      {
+        "type": "stable",
+        "airport_id": 99,
+        "name": "轻语机场",
+        "website": "https://qingyudaohang.top/#/register?code=0t21Stac",
+        "tags": [
+          "赠送emby",
+          "AI解锁",
+          "免费试用"
+        ],
+        "score": 81.22,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 1.12
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "22 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "新手友好"
+          }
+        ],
+        "conclusion": "亮点：门槛更低、风险更可控，适合作为大多数用户的优先候选。",
+        "report_url": "/airports/qingyudaohang"
+      },
+      {
+        "type": "stable",
+        "airport_id": 77,
+        "name": "锦云",
+        "website": "https://216.236.63.115/#/register?code=oXTNhJKR",
+        "tags": [
+          "高端路线",
+          "长期稳定",
+          "新手友好"
+        ],
+        "score": 78.57,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.69
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "149 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "长期稳定"
+          }
+        ],
+        "conclusion": "亮点：当前已连续保持 15 天健康记录，长期使用更省心。",
+        "report_url": "/airports/w2-whengdl"
+      },
+      {
+        "type": "stable",
+        "airport_id": 61,
+        "name": "仙路湾",
+        "website": "https://jq.xlw.app/#/register?code=eUJZDrxc",
+        "tags": [
+          "8折：xlw",
+          "AI解锁",
+          "晚高峰稳定"
+        ],
+        "score": 86.97,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.2
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "178 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "长期稳定"
+          }
+        ],
+        "conclusion": "亮点：当前已连续保持 30 天健康记录，长期使用更省心。",
+        "report_url": "/airports/xianluwan"
+      },
+      {
+        "type": "stable",
+        "airport_id": 98,
+        "name": "Here云-稳定专线原生IP",
+        "website": "https://web.hereyun.cc/#/register?code=wkDK4sN0",
+        "tags": [
+          "IEPL专线",
+          "ISP原生IP",
+          "老牌商家"
+        ],
+        "score": 90.58,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.81
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "25 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "长期稳定"
+          }
+        ],
+        "conclusion": "亮点：当前已连续保持 24 天健康记录，长期使用更省心。",
+        "report_url": "/airports/web-hereyun"
+      },
+      {
+        "type": "stable",
+        "airport_id": 1,
+        "name": "大象网络",
+        "website": "https://www.elephant-ipcheck.com/",
+        "tags": [
+          "晚高峰稳定",
+          "高端路线",
+          "原生IP"
+        ],
+        "score": 93.29,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.32
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "运行天数",
+            "value": "235 天"
+          },
+          {
+            "label": "核心亮点",
+            "value": "长期稳定"
+          }
+        ],
+        "conclusion": "亮点：当前已连续保持 30 天健康记录，长期使用更省心。",
+        "report_url": "/airports/elphantroute"
+      }
+    ]
+  },
+  "most_stable": {
+    "title": "长期稳定机场",
+    "subtitle": "稳定达标 · 公平轮换",
+    "rotation": {
+      "interval_minutes": 60,
+      "round": 53,
+      "started_at": "2026-11-10T06:27:53.852Z",
+      "next_rotation_at": "2026-11-10T07:27:53.852Z"
+    },
+    "items": [
+      {
+        "type": "stable",
+        "airport_id": 1,
+        "name": "大象网络",
+        "website": "https://www.elephant-ipcheck.com/",
+        "tags": [
+          "晚高峰稳定",
+          "高端路线",
+          "原生IP"
+        ],
+        "score": 93.29,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.32
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "稳定记录",
+            "value": "30 天"
+          },
+          {
+            "label": "可用率",
+            "value": "100%"
+          }
+        ],
+        "conclusion": "近阶段可用率维持在 100%，连续稳定记录达到 30 天，适合对长期在线质量要求更高的用户。",
+        "report_url": "/airports/elphantroute"
+      },
+      {
+        "type": "stable",
+        "airport_id": 84,
+        "name": "鲤云",
+        "website": "https://ly888.liydl.com:8888/#/register?code=4qFlsy1E",
+        "tags": [
+          "长期稳定",
+          "新手友好",
+          "性价比高"
+        ],
+        "score": 85.78,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.03
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "稳定记录",
+            "value": "30 天"
+          },
+          {
+            "label": "可用率",
+            "value": "100%"
+          }
+        ],
+        "conclusion": "近阶段可用率维持在 100%，连续稳定记录达到 30 天，适合对长期在线质量要求更高的用户。",
+        "report_url": "/airports/ly888-liydl"
+      },
+      {
+        "type": "stable",
+        "airport_id": 61,
+        "name": "仙路湾",
+        "website": "https://jq.xlw.app/#/register?code=eUJZDrxc",
+        "tags": [
+          "8折：xlw",
+          "AI解锁",
+          "晚高峰稳定"
+        ],
+        "score": 86.97,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.2
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "稳定记录",
+            "value": "30 天"
+          },
+          {
+            "label": "可用率",
+            "value": "100%"
+          }
+        ],
+        "conclusion": "近阶段可用率维持在 100%，连续稳定记录达到 30 天，适合对长期在线质量要求更高的用户。",
+        "report_url": "/airports/xianluwan"
+      },
+      {
+        "type": "stable",
+        "airport_id": 62,
+        "name": "Now加速·原生IP机场",
+        "website": "https://go.noww.cc/#/register?code=Ooe8jDtv",
+        "tags": [
+          "IEPL专线",
+          "晚高峰稳定",
+          "AI全解锁"
+        ],
+        "score": 92.49,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.03
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "稳定记录",
+            "value": "30 天"
+          },
+          {
+            "label": "可用率",
+            "value": "100%"
+          }
+        ],
+        "conclusion": "近阶段可用率维持在 100%，连续稳定记录达到 30 天，适合对长期在线质量要求更高的用户。",
+        "report_url": "/airports/nowjiasu"
+      }
+    ]
+  },
+  "best_value": {
+    "title": "性价比推荐",
+    "subtitle": "稳定实惠 · 公平轮换",
+    "rotation": {
+      "interval_minutes": 60,
+      "round": 87,
+      "started_at": "2026-11-10T06:27:53.852Z",
+      "next_rotation_at": "2026-11-10T07:27:53.852Z"
+    },
+    "items": [
+      {
+        "type": "value",
+        "airport_id": 62,
+        "name": "Now加速·原生IP机场",
+        "website": "https://go.noww.cc/#/register?code=Ooe8jDtv",
+        "tags": [
+          "IEPL专线",
+          "晚高峰稳定",
+          "AI全解锁"
+        ],
+        "score": 92.49,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.03
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "连续无波动",
+            "value": "30 天"
+          },
+          {
+            "label": "价格",
+            "value": "¥15/月起"
+          }
+        ],
+        "conclusion": "当前价格为 ¥15/月，在成本与性能之间保持了更好的平衡，适合预算敏感但仍看重体验的用户。",
+        "report_url": "/airports/nowjiasu"
+      },
+      {
+        "type": "value",
+        "airport_id": 1,
+        "name": "大象网络",
+        "website": "https://www.elephant-ipcheck.com/",
+        "tags": [
+          "晚高峰稳定",
+          "高端路线",
+          "原生IP"
+        ],
+        "score": 93.29,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.32
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "连续无波动",
+            "value": "30 天"
+          },
+          {
+            "label": "价格",
+            "value": "¥19/月起"
+          }
+        ],
+        "conclusion": "当前价格为 ¥19/月，在成本与性能之间保持了更好的平衡，适合预算敏感但仍看重体验的用户。",
+        "report_url": "/airports/elphantroute"
+      },
+      {
+        "type": "value",
+        "airport_id": 84,
+        "name": "鲤云",
+        "website": "https://ly888.liydl.com:8888/#/register?code=4qFlsy1E",
+        "tags": [
+          "长期稳定",
+          "新手友好",
+          "性价比高"
+        ],
+        "score": 85.78,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.03
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "连续无波动",
+            "value": "30 天"
+          },
+          {
+            "label": "价格",
+            "value": "¥4/月起"
+          }
+        ],
+        "conclusion": "当前价格为 ¥4/月，在成本与性能之间保持了更好的平衡，适合预算敏感但仍看重体验的用户。",
+        "report_url": "/airports/ly888-liydl"
+      },
+      {
+        "type": "value",
+        "airport_id": 98,
+        "name": "Here云-稳定专线原生IP",
+        "website": "https://web.hereyun.cc/#/register?code=wkDK4sN0",
+        "tags": [
+          "IEPL专线",
+          "ISP原生IP",
+          "老牌商家"
+        ],
+        "score": 90.58,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.81
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "连续无波动",
+            "value": "24 天"
+          },
+          {
+            "label": "价格",
+            "value": "¥25/月起"
+          }
+        ],
+        "conclusion": "当前价格为 ¥25/月，在成本与性能之间保持了更好的平衡，适合预算敏感但仍看重体验的用户。",
+        "report_url": "/airports/web-hereyun"
+      }
+    ]
+  },
+  "new_entries": {
+    "title": "新入榜潜力",
+    "subtitle": "New Entries",
+    "items": [
+      {
+        "type": "new",
+        "airport_id": 100,
+        "name": "AVEE VPN",
+        "website": "https://aveevpn.com/account",
+        "tags": [
+          "新入榜",
+          "新手友好"
+        ],
+        "score": 70.37,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": -0.08
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "观察时长",
+            "value": "13 天"
+          },
+          {
+            "label": "近期评分",
+            "value": "持平"
+          }
+        ],
+        "conclusion": "已观察 13 天，近期评分趋势为持平，目前处于持续跟踪阶段，具备继续上榜的潜力。",
+        "report_url": "/airports/aveevpn"
+      },
+      {
+        "type": "new",
+        "airport_id": 99,
+        "name": "轻语机场",
+        "website": "https://qingyudaohang.top/#/register?code=0t21Stac",
+        "tags": [
+          "赠送emby",
+          "AI解锁",
+          "免费试用"
+        ],
+        "score": 81.22,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 1.12
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "观察时长",
+            "value": "22 天"
+          },
+          {
+            "label": "近期评分",
+            "value": "持平"
+          }
+        ],
+        "conclusion": "已观察 22 天，近期评分趋势为持平，目前处于持续跟踪阶段，具备继续上榜的潜力。",
+        "report_url": "/airports/qingyudaohang"
+      },
+      {
+        "type": "new",
+        "airport_id": 98,
+        "name": "Here云-稳定专线原生IP",
+        "website": "https://web.hereyun.cc/#/register?code=wkDK4sN0",
+        "tags": [
+          "IEPL专线",
+          "ISP原生IP",
+          "老牌商家"
+        ],
+        "score": 90.58,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.81
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "观察时长",
+            "value": "25 天"
+          },
+          {
+            "label": "近期评分",
+            "value": "持平"
+          }
+        ],
+        "conclusion": "已观察 25 天，近期评分趋势为持平，目前处于持续跟踪阶段，具备继续上榜的潜力。",
+        "report_url": "/airports/web-hereyun"
+      },
+      {
+        "type": "new",
+        "airport_id": 97,
+        "name": "CyberGuard",
+        "website": "https://www.cyberguard.best/#/register?code=gEquTBUt",
+        "tags": [
+          "新入榜",
+          "长期稳定",
+          "新手友好"
+        ],
+        "score": 72.22,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 1.61
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "观察时长",
+            "value": "25 天"
+          },
+          {
+            "label": "近期评分",
+            "value": "持平"
+          }
+        ],
+        "conclusion": "已观察 25 天，近期评分趋势为持平，目前处于持续跟踪阶段，具备继续上榜的潜力。",
+        "report_url": "/airports/cyberguard"
+      },
+      {
+        "type": "new",
+        "airport_id": 96,
+        "name": "一号cloud",
+        "website": "https://y1.yihaodlu.com/app.html#/register?code=mFgE06jV",
+        "tags": [
+          "新入榜",
+          "长期稳定",
+          "新手友好"
+        ],
+        "score": 82.5,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": 0.31
+        },
+        "stability_tier": "stable",
+        "details": [
+          {
+            "label": "观察时长",
+            "value": "29 天"
+          },
+          {
+            "label": "近期评分",
+            "value": "持平"
+          }
+        ],
+        "conclusion": "已观察 29 天，近期评分趋势为持平，目前处于持续跟踪阶段，具备继续上榜的潜力。",
+        "report_url": "/airports/y1-yihaodlu"
+      }
+    ]
+  },
+  "risk_alerts": {
+    "title": "风险预警",
+    "subtitle": "Risk Alerts",
+    "items": [
+      {
+        "type": "risk",
+        "airport_id": 75,
+        "name": "上帝世界",
+        "website": "https://godworld.example.com/",
+        "status": "跑路",
+        "tags": [
+          "已跑路",
+          "停止服务"
+        ],
+        "score": 0,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": null
+        },
+        "stability_tier": "volatile",
+        "details": [
+          {
+            "label": "监测类型",
+            "value": "跑路监测"
+          },
+          {
+            "label": "状态标识",
+            "value": "已确认跑路"
+          }
+        ],
+        "conclusion": "全线节点持续超时断连，官网已无法访问，管理人员已失联，确认失联跑路。",
+        "report_url": "/airports/godworld"
+      },
+      {
+        "type": "risk",
+        "airport_id": 77,
+        "name": "滕王阁",
+        "website": "https://twg.example.com/",
+        "status": "跑路",
+        "tags": [
+          "已跑路",
+          "停止服务"
+        ],
+        "score": 0,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": null
+        },
+        "stability_tier": "volatile",
+        "details": [
+          {
+            "label": "监测类型",
+            "value": "跑路监测"
+          },
+          {
+            "label": "状态标识",
+            "value": "已确认跑路"
+          }
+        ],
+        "conclusion": "节点大面积熔断，官方群全员禁言，官网已打不开，已确认跑路。",
+        "report_url": "/airports/twg"
+      },
+      {
+        "type": "risk",
+        "airport_id": 78,
+        "name": "蜜雪冰城",
+        "website": "https://mxbc.example.com/",
+        "status": "跑路",
+        "tags": [
+          "已跑路",
+          "停止服务"
+        ],
+        "score": 0,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": null
+        },
+        "stability_tier": "volatile",
+        "details": [
+          {
+            "label": "监测类型",
+            "value": "跑路监测"
+          },
+          {
+            "label": "状态标识",
+            "value": "已确认跑路"
+          }
+        ],
+        "conclusion": "官网自动探测持续失败，订阅解析完全失效，客服渠道无法联络，确认停服跑路。",
+        "report_url": "/airports/mxbc"
+      },
+      {
+        "type": "risk",
+        "airport_id": 76,
+        "name": "奈云 VPN",
+        "website": "https://naiyun.example.com/",
+        "status": "跑路",
+        "tags": [
+          "已跑路",
+          "停止服务"
+        ],
+        "score": 0,
+        "score_hidden": false,
+        "score_hidden_reason": null,
+        "score_delta_vs_yesterday": {
+          "label": "对比昨天",
+          "value": null
+        },
+        "stability_tier": "volatile",
+        "details": [
+          {
+            "label": "监测类型",
+            "value": "跑路监测"
+          },
+          {
+            "label": "状态标识",
+            "value": "已确认跑路"
+          }
+        ],
+        "conclusion": "经多区域拨测节点已全部离线，官网域名无法解析，已确认跑路。",
+        "report_url": "/airports/naiyun"
+      }
+    ]
+  }
+}

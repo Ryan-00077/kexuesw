@@ -1,0 +1,4994 @@
+[
+  {
+    "airport_id": 103,
+    "rank": 6,
+    "name": "环球梯",
+    "website": "/go/huanqiuti",
+    "status": "normal",
+    "tags": [
+      "VLESS",
+      "流媒体解锁"
+    ],
+    "node_count": 63,
+    "founded_on": "2025-04-02",
+    "plan_price_month": 19,
+    "has_trial": false,
+    "airport_intro": "环球梯的主要特色：\n- 套餐灵活：月付、年付和按量套餐均可选择，最低 ¥8/月\n- 流量充足：提供每月 60GB—600GB 不同档位\n- 多设备支持：无设备限制\n- 应用支持：部分套餐支持常用流媒体与 AI 服务\n- 用户覆盖广：适合学生、个人用户、家庭共享及高流量用户\n- 硬核线路与协议：全线采用最新 VLESS 协议 + 纯专线 架构，晚高峰轻松跑满 4K/8K，敏感时期抗封锁能力强。\n- 节点丰富与解锁：覆盖港/台/日/新/美等 60+ 核心节点，全解锁 Netflix、Disney+ 及 ChatGPT 等 AI 服务。\n- 支付便捷：支持支付宝   微信    USDT",
+    "created_at": "2026-11-08",
+    "score": 92.6,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/huanqiuti",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": false
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    },
+    "tracking_days": 3
+  },
+  {
+    "airport_id": 62,
+    "rank": 2,
+    "name": "Now加速·原生IP机场",
+    "website": "https://go.noww.cc/#/register?code=Ooe8jDtv",
+    "status": "normal",
+    "tags": [
+      "AI解锁",
+      "晚高峰稳定",
+      "AI全解锁",
+      "长期稳定",
+      "新手友好",
+      "性价比高"
+    ],
+    "node_count": 37,
+    "founded_on": "2025-09-02",
+    "plan_price_month": 15,
+    "has_trial": false,
+    "airport_intro": "⚡️专线机场，经测试移动联通电信三网稳定，晚高峰无掉线，实际体验4K视频和海外文件下载速度很快，有独立的定制客户端，IP比较干净能满足AI解锁和外贸对节点要求质量高的需求。整体还是测评过的机场里比较优秀的，在现有环境下能搞到稳定专线资源的还是有点实力的，推荐购买。\n\n🌐节点地区信息：香港（有原生IP）、台湾（有原生IP）、韩国（有原生IP）、日本（有原生IP）、新加坡（有原生IP）、越南（有原生IP）、英国（有原生IP）、德国（有原生IP）、法国（有原生IP）、土耳其（有原生IP）、美国（有原生IP）、澳门、泰国、印度、加拿大、瑞典、荷兰、。",
+    "created_at": "2026-05-17",
+    "score": 92.49,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.03
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/nowjiasu",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": true
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": true
+        },
+        {
+          "key": "india",
+          "label": "印度",
+          "line_types": [
+            {
+              "key": "iepl",
+              "label": "IEPL"
+            },
+            {
+              "key": "cn2",
+              "label": "CN2"
+            },
+            {
+              "key": "bgp",
+              "label": "BGP"
+            },
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "indonesia",
+          "label": "印度尼西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "malaysia",
+          "label": "马来西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "australia",
+          "label": "澳大利亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 178
+  },
+  {
+    "airport_id": 99,
+    "rank": 3,
+    "name": "轻语机场",
+    "website": "https://qingyudaohang.top/#/register?code=0t21Stac",
+    "status": "normal",
+    "tags": [
+      "赠送emby",
+      "AI解锁",
+      "免费试用",
+      "新入榜",
+      "新手友好",
+      "性价比高",
+      "高性能"
+    ],
+    "node_count": 41,
+    "founded_on": "2025-02-15",
+    "plan_price_month": 10,
+    "has_trial": true,
+    "airport_intro": "轻语机场 \n 目前使用三条海外香港中转线路中转  \n另有直连线路和低倍率节点\n线路包含 dmit美西线路 vmiss美西线路  AWS  新加坡  日本  0.2倍线路\n价格100G/10R \n购买会员赠送emby 性价比极高   新用户注册赠送2小时5G流量",
+    "created_at": "2026-10-20",
+    "score": 81.22,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 1.12
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/qingyudaohang",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [],
+      "import_methods": [],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "indonesia",
+          "label": "印度尼西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "philippines",
+          "label": "菲律宾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "malaysia",
+          "label": "马来西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": null,
+        "has_lifetime_plan": null
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    },
+    "tracking_days": 22
+  },
+  {
+    "airport_id": 77,
+    "rank": 4,
+    "name": "锦云",
+    "website": "https://216.236.63.115/#/register?code=oXTNhJKR",
+    "status": "normal",
+    "tags": [
+      "高端路线",
+      "长期稳定",
+      "新手友好"
+    ],
+    "node_count": 29,
+    "founded_on": "2025-10-01",
+    "plan_price_month": 4.8,
+    "has_trial": false,
+    "airport_intro": "锦云只有小流量套餐\n\n锦云专注于在不断变化的市场环境中，为每一位客户提供流畅的网络体验~",
+    "created_at": "2026-06-15",
+    "score": 78.57,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.69
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/w2-whengdl",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 149
+  },
+  {
+    "airport_id": 61,
+    "rank": 5,
+    "name": "仙路湾",
+    "website": "https://jq.xlw.app/#/register?code=eUJZDrxc",
+    "status": "normal",
+    "tags": [
+      "8折：xlw",
+      "AI解锁",
+      "晚高峰稳定",
+      "长期稳定",
+      "新手友好",
+      "性价比高"
+    ],
+    "node_count": 13,
+    "founded_on": "2024-12-19",
+    "plan_price_month": 8,
+    "has_trial": true,
+    "airport_intro": "有3个转发入口，还有两个备用容灾转发,自动切换，一共5个转发入口,永不掉线,已经稳定运行一年半\n进电报群，每天可以抽流量白嫖",
+    "created_at": "2026-05-17",
+    "score": 86.97,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.2
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/xianluwan",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "spain",
+          "label": "西班牙",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 178
+  },
+  {
+    "airport_id": 104,
+    "rank": 1,
+    "name": "神行加速",
+    "website": "/go/shenxing",
+    "status": "normal",
+    "tags": [
+      "自研客户端",
+      "IEPL专线"
+    ],
+    "node_count": 55,
+    "founded_on": "2025-09-26",
+    "plan_price_month": 19.88,
+    "has_trial": false,
+    "airport_intro": "适合人群： 注重晚高峰稳定性、AI 工具访问、流媒体使用及综合体验的用户\n主要特点： 运营时间较长，主打企业级内网专线线路与 VLESS 协议。品牌资料显示支持常见流媒体及 AI 工具访问，并提供自研客户端。需要使用 Clash、Shadowrocket 等第三方客户端时，可联系在线客服获取订阅导入方式。\n推荐定位： 节点丰富 / VLESS / 三网优化 / 智能负载均衡",
+    "created_at": "2026-11-08",
+    "score": 96,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/shenxing",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        },
+        {
+          "key": "wechat",
+          "label": "微信"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 3
+  },
+  {
+    "airport_id": 98,
+    "rank": 8,
+    "name": "Here云-稳定专线原生IP",
+    "website": "https://web.hereyun.cc/#/register?code=wkDK4sN0",
+    "status": "normal",
+    "tags": [
+      "IEPL专线",
+      "ISP原生IP",
+      "老牌商家",
+      "新入榜",
+      "长期稳定",
+      "性价比高",
+      "高性能",
+      "高端路线"
+    ],
+    "node_count": 37,
+    "founded_on": "2021-10-07",
+    "plan_price_month": 25,
+    "has_trial": false,
+    "airport_intro": "本站测评：Here云 高端大陆优化南北双通道专线，18个节点，包含，香港、台湾、新加坡、日本、美国、西班牙、土耳其、韩国、英国、德国、法国、均有原生IPISP，连续测试一个月掉线少，特殊时期也没有出现不可用情况，晚高峰可用 ✅顶级三网优化专线 ｜ ✅低延迟高并发 ｜ ✅纯净原生原生IP线路  ｜ ✅全球流媒体 + AI 服务全解锁⚡️支持Clash 一键导入，价格较高，求稳的用户非常推荐",
+    "created_at": "2026-10-17",
+    "score": 90.58,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.81
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/web-hereyun",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "india",
+          "label": "印度",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "indonesia",
+          "label": "印度尼西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "malaysia",
+          "label": "马来西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "australia",
+          "label": "澳大利亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 25
+  },
+  {
+    "airport_id": 64,
+    "rank": 9,
+    "name": "飞猫云",
+    "website": "https://sk99.fei9sjf.xyz/#/?code=Lo8wndrN",
+    "status": "normal",
+    "tags": [
+      "IPLC专线",
+      "IEPL专线"
+    ],
+    "node_count": 42,
+    "founded_on": "2025-10-05",
+    "plan_price_month": 15,
+    "has_trial": false,
+    "airport_intro": "飞猫云是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。\n核心亮点\n1. 专线落地 + 高速解锁\n   原生机房线路，稳定低延迟\n   节点通常标示可解锁 Netflix / Disney+ / TikTok / ChatGPT 等（以节点标注为准）\n2. 全球布局 + 多地区节点\n   覆盖香港、日本、新加坡、美国、英国、德国、法国、韩国、马来西亚、泰国、越南、菲律宾、土耳其等\n   60+ 节点，独立 IP 资源，带宽 2Gbps+，高峰冗余策略（参考 500Mbps 级别冗余）\n3. 多平台支持 + 多设备同时用\n   支持 Shadowrocket / Clash / V2Ray / Trojan 等主流客户端生态（以订阅/配置为准）\n   适配 iOS / Android / Windows / macOS / 路由器\n   同一账号可多端使用，适合家庭与多设备用户（以套餐规则为准）\n4. 售后与维护\n   支持提交工单与在线客服，响应快\n   海外团队持续维护节点网络，优化稳定性与抗干扰能力\n支付方式：支付宝 / USDT/微信",
+    "created_at": "2026-05-19",
+    "score": null,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": null
+    },
+    "score_date": null,
+    "report_url": null,
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "philippines",
+          "label": "菲律宾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": false,
+        "group_allows_speaking": null
+      }
+    },
+    "tracking_days": 176
+  },
+  {
+    "airport_id": 1,
+    "rank": 10,
+    "name": "大象网络",
+    "website": "https://www.elephant-ipcheck.com/",
+    "status": "normal",
+    "tags": [
+      "晚高峰稳定",
+      "高端路线",
+      "原生IP",
+      "长期稳定",
+      "性价比高",
+      "高性能"
+    ],
+    "node_count": 31,
+    "founded_on": "2025-09-27",
+    "plan_price_month": 19,
+    "has_trial": false,
+    "airport_intro": "大象网络，专注稳定高速连接。自研全平台客户端，操作简单，连接更稳；日本、硅谷优质线路智能调度，晚高峰依然流畅不卡顿。支持 ChatGPT、Claude、Gemini 等主流 AI 工具，办公、学习、视频与跨境访问，一站式满足。",
+    "created_at": "2026-03-21",
+    "score": 93.29,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.32
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/elphantroute",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [
+            {
+              "key": "cn2",
+              "label": "CN2"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [
+            {
+              "key": "cn2",
+              "label": "CN2"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [
+            {
+              "key": "bgp",
+              "label": "BGP"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "india",
+          "label": "印度",
+          "line_types": [
+            {
+              "key": "relay",
+              "label": "中转"
+            }
+          ],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "australia",
+          "label": "澳大利亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 235
+  },
+  {
+    "airport_id": 40,
+    "rank": 11,
+    "name": "极速云机场",
+    "website": "https://qa.ksiwgreasi.com:8888/#/register?code=GYirJLvZ",
+    "status": "normal",
+    "tags": [
+      "高端路线"
+    ],
+    "node_count": 28,
+    "founded_on": "2023-01-26",
+    "plan_price_month": 15.99,
+    "has_trial": false,
+    "airport_intro": "100+节点，30+国家，流媒体解锁优秀，\n机场配置：\n电信⚡：晚高峰切换香Gomami CN2精品网海外中转\n移动📱联通🪢：香AWS📱海外中转\n日本🇯🇵软银原生IP\n香港🇭🇰HKT原生IP\n美国🇺🇸 Black Mesa原生IP\n协议： anytls vless hy",
+    "created_at": "2026-05-10",
+    "score": null,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": null
+    },
+    "score_date": null,
+    "report_url": null,
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [],
+      "clients": [],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    },
+    "tracking_days": 185
+  },
+  {
+    "airport_id": 90,
+    "rank": 12,
+    "name": "九云",
+    "website": "https://jcbang.jiuyyq.com/",
+    "status": "normal",
+    "tags": [
+      "新手友好"
+    ],
+    "node_count": 33,
+    "founded_on": "2025-08-04",
+    "plan_price_month": 6,
+    "has_trial": false,
+    "airport_intro": "不用高价，也能享受高端线路体验。九云，让稳定与性价比兼得。\n超高性价比 · 极致稳定 · 晚高峰流畅体验",
+    "created_at": "2026-09-09",
+    "score": null,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": null
+    },
+    "score_date": null,
+    "report_url": null,
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    },
+    "tracking_days": 63
+  },
+  {
+    "airport_id": 94,
+    "rank": 5,
+    "name": "枫叶Maplerelay",
+    "website": "https://www.maplerelay.net/#/signup?intl_signup=qweaDDsd",
+    "status": "normal",
+    "tags": [
+      "长期稳定",
+      "新手友好"
+    ],
+    "node_count": 35,
+    "founded_on": "2026-08-31",
+    "plan_price_month": 5,
+    "has_trial": false,
+    "airport_intro": "🍁 枫叶 VPN｜移动网络节点测速参考\n这次整理了香港、新加坡、日本、美国、德国和英国节点的测速记录，供大家选择线路时参考。\n📶 部分节点 TLS RTT：\n🇭🇰 香港：35–37 ms\n🇸🇬 新加坡：76 ms\n🇯🇵 日本：87–88 ms\n♻️ 当月未用完的流量可结转至下月，结转后总额度最高可达套餐流量的 200%。\n📱 支持订阅链接与客户端连接，一个账号可管理多份订阅。",
+    "created_at": "2026-09-19",
+    "score": 85.85,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.64
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/maplerelay",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        },
+        {
+          "key": "wechat",
+          "label": "微信"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": false
+      },
+      "telegram": {
+        "has_group": false,
+        "group_allows_speaking": false
+      }
+    }
+  },
+  {
+    "airport_id": 84,
+    "rank": 6,
+    "name": "鲤云",
+    "website": "https://ly888.liydl.com:8888/#/register?code=4qFlsy1E",
+    "status": "normal",
+    "tags": [
+      "长期稳定",
+      "新手友好",
+      "性价比高"
+    ],
+    "node_count": 34,
+    "founded_on": "2026-06-27",
+    "plan_price_month": 4,
+    "has_trial": false,
+    "airport_intro": "国内官网：鲤云.com\n\n鲤云只有小流量套餐\n\n鲤云专注于在不断变化的市场环境中，为每一位客户提供流畅的网络体验~",
+    "created_at": "2026-08-01",
+    "score": 85.78,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.03
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/ly888-liydl",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    }
+  },
+  {
+    "airport_id": 81,
+    "rank": 7,
+    "name": "极速Cloud",
+    "website": "https://bktg.jsjc456789.com",
+    "status": "normal",
+    "tags": [
+      "顶级三网优化",
+      "千兆带宽",
+      "高端机场",
+      "长期稳定",
+      "新手友好"
+    ],
+    "node_count": 75,
+    "founded_on": "2022-03-19",
+    "plan_price_month": 15,
+    "has_trial": false,
+    "airport_intro": "顶级三网精品优化线路，保证24小时流畅，无视晚高峰，原生IP节点多，冷门国家多。",
+    "created_at": "2026-07-04",
+    "score": 85.19,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.58
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/bktg-jsjc456789",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "south_korea",
+          "label": "韩国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "turkey",
+          "label": "土耳其",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "indonesia",
+          "label": "印度尼西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "malaysia",
+          "label": "马来西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "vietnam",
+          "label": "越南",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "australia",
+          "label": "澳大利亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "canada",
+          "label": "加拿大",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "italy",
+          "label": "意大利",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "netherlands",
+          "label": "荷兰",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "south_africa",
+          "label": "南非",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "russia",
+          "label": "俄罗斯",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "spain",
+          "label": "西班牙",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 83,
+    "rank": 9,
+    "name": "熊猫cloud",
+    "website": "https://103.73.220.147:8888/#/register?code=3gwgYKRF",
+    "status": "normal",
+    "tags": [
+      "高端路线",
+      "长期稳定",
+      "新手友好"
+    ],
+    "node_count": 35,
+    "founded_on": "2026-04-19",
+    "plan_price_month": 4.8,
+    "has_trial": true,
+    "airport_intro": "机场是财路的敲门砖，不要让节点的质量，影响你发财路上的心情~",
+    "created_at": "2026-07-29",
+    "score": 83.07,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.39
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/cl888-cailudl",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": true
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 96,
+    "rank": 10,
+    "name": "一号cloud",
+    "website": "https://y1.yihaodlu.com/app.html#/register?code=mFgE06jV",
+    "status": "normal",
+    "tags": [
+      "新入榜",
+      "长期稳定",
+      "新手友好",
+      "性价比高"
+    ],
+    "node_count": 21,
+    "founded_on": "2022-12-29",
+    "plan_price_month": 5.6,
+    "has_trial": false,
+    "airport_intro": "老机场，没有过多的花里胡哨！",
+    "created_at": "2026-10-13",
+    "score": 82.5,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.31
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/y1-yihaodlu",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": null
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": false
+      }
+    }
+  },
+  {
+    "airport_id": 42,
+    "rank": 11,
+    "name": "云图",
+    "website": "https://super.ytjcok.org/#/register?code=fzZCqRZk",
+    "status": "normal",
+    "tags": [
+      "自研客户端",
+      "解锁流媒体",
+      "新客8折:yt88",
+      "高端路线"
+    ],
+    "node_count": 37,
+    "founded_on": "2026-02-19",
+    "plan_price_month": 20,
+    "has_trial": false,
+    "airport_intro": "⚡️ **金融级专线**｜全线高规格专线传输，三网优化，高峰期依然极速稳定\n🟢 **流媒体解锁**｜完美解锁 ChatGPT、Netflix、TikTok 等主流服务及冷门原生 IP\n🟢 **透明高性价比**｜节点倍率统一 1 倍，绝无高倍扣费陷阱\n🟢 **贴心售后保障**｜支持多设备同时在线，工单 24 小时内快速响应服务",
+    "created_at": "2026-05-11",
+    "score": 81.3,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.59
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/ccc-jichang",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "india",
+          "label": "印度",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "thailand",
+          "label": "泰国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "malaysia",
+          "label": "马来西亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "australia",
+          "label": "澳大利亚",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "brazil",
+          "label": "巴西",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "italy",
+          "label": "意大利",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 93,
+    "rank": 13,
+    "name": "Andy Cloud",
+    "website": "https://ddhh.andycloud.cc:8888/#/register?code=fGcgqp4w",
+    "status": "normal",
+    "tags": [
+      "长期稳定",
+      "新手友好"
+    ],
+    "node_count": 38,
+    "founded_on": "2025-04-27",
+    "plan_price_month": 5,
+    "has_trial": false,
+    "airport_intro": "穿透专线节点，主打稳定，不限速，支持个人及团队使用！解锁Netflix, Disney+, Abema等所有流媒体，支持ChatGPT, Claude, Meta AI等所有AI",
+    "created_at": "2026-09-16",
+    "score": 80.36,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.11
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/andygw",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "hbo_max",
+          "label": "HBO Max"
+        },
+        {
+          "key": "youtube_premium",
+          "label": "YouTube Premium"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        },
+        {
+          "key": "spotify",
+          "label": "Spotify"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    }
+  },
+  {
+    "airport_id": 97,
+    "rank": 15,
+    "name": "CyberGuard",
+    "website": "https://www.cyberguard.best/#/register?code=gEquTBUt",
+    "status": "normal",
+    "tags": [
+      "新入榜",
+      "长期稳定",
+      "新手友好",
+      "性价比高"
+    ],
+    "node_count": 34,
+    "founded_on": "2023-07-25",
+    "plan_price_month": 15,
+    "has_trial": false,
+    "airport_intro": "一、机场定位\n\nCyberGuard（简称 CG）是一家提供跨境网络连接与代理加速服务的服务商，公开资料显示其于 2023 年开始运营，主要采用 Shadowsocks 等相关代理技术，为用户提供多地区网络节点及不同类型的连接线路。\n\n在服务定位上，CyberGuard 侧重于多地区节点覆盖、国际网络连接、流媒体访问及多场景网络使用需求。通过不同入口线路与海外节点的组合，为用户提供多种连接选择，适用于日常网页浏览、影音娱乐、跨境信息访问以及其他需要国际网络连接的场景。\n\n从产品结构来看，CyberGuard 不仅面向个人用户提供常规流量套餐，也设置了较大流量及企业级套餐，以满足不同使用规模和流量需求的用户。\n\n二、地区分布与节点覆盖\n\n根据公开的节点介绍及历史测试资料，CyberGuard 的网络节点覆盖亚洲、北美、欧洲及中东等多个地区，主要包括：\n\n* 东亚地区： 香港、台湾、日本、韩国。\n* 东南亚地区： 新加坡。\n* 北美地区： 美国。\n* 欧洲地区： 英国、德国、法国等。\n* 其他地区： 澳大利亚、印度、阿联酋等。\n\n多地区节点布局能够为用户提供不同的网络出口选择。用户可根据目标访问地区、网络延迟、服务平台的地区要求以及自身网络环境，选择相应节点。\n\n需要注意的是，以上地区来自公开资料及历史节点记录，不代表当前所有地区均持续提供服务。具体节点数量、名称及在线状态，应以官网实时订阅列表为准。\n\n三、线路类型与网络架构\n\nCyberGuard 的线路特色主要体现在多种网络接入方式及跨地区节点组合上。公开介绍中涉及公网中转、IPLC、IEPL 等线路类型，并提及部分线路具有针对不同地区的接入安排。\n\n1. 公网中转线路\n\n公网中转线路通过中间网络节点转发流量，为用户提供跨地区连接路径。其特点是可以利用不同网络资源组织连接，具有一定的线路配置灵活性。\n\n实际连接质量取决于入口网络、中转路径、出口节点、运营商互联情况及网络负载等因素。\n\n2. IPLC／IEPL 专线线路\n\n公开资料将 IPLC、IEPL 列为 CyberGuard 的线路类型。\n\nIPLC 和 IEPL 通常用于描述国际专用网络连接或专用以太网连接服务。相较于完全依赖普通公网路径的连接方式，专线方案可提供不同的传输路径和网络资源配置。\n\n不过，具体线路是否采用独立专线、覆盖哪些节点，以及是否具备相应的服务保障，需要以服务商提供的正式说明为准，不能仅凭节点名称判断。\n\n3. 多入口与多地区组合\n\n部分公开资料还提及深港、广港及沪日等方向的线路安排。这类区域组合体现了服务商对不同入口地区和海外出口方向的配置思路。\n\n对于用户而言，不同入口与出口组合可能带来不同的延迟、路由路径和连接表现，实际效果需要结合所在地网络环境进行判断。\n\n四、主要服务亮点\n\n1. 多地区节点选择\n\n覆盖亚洲、北美、欧洲及其他地区，为用户提供多种海外网络出口选择，方便根据目标地区和使用场景切换节点。\n\n2. 多类型线路配置\n\n公开资料涉及公网中转及 IPLC、IEPL 等线路类型，为不同网络环境下的连接需求提供多种选择。具体线路分配以实际套餐和节点列表为准。\n\n3. 影音娱乐支持\n\n公开介绍提及 Netflix、Disney+、YouTube 等流媒体平台。不同节点的地区识别、播放质量及服务可用性可能存在差异，具体表现取决于出口 IP、平台政策和实时网络状况。\n\n4. 多种网络应用场景\n\n服务可用于常规网页访问、跨境信息获取、在线影音娱乐及其他需要国际网络连接的应用场景。部分公开资料还提及 ChatGPT 等 AI 服务，但实际可用性需根据节点情况及相关平台的服务政策确认。\n\n5. 多档流量套餐\n\n公开套餐资料显示，CyberGuard 曾提供不同流量规格的周期套餐，以及一次性流量包，部分方案还面向团队或企业用户。不同套餐在流量额度、计费周期和服务内容方面有所区别，可根据实际使用量进行选择。\n\n6. 企业及定制化需求\n\n部分介绍提及企业级套餐及定制服务。对于有较大流量需求或特殊线路配置需求的用户，可进一步向服务商确认可选方案、技术支持范围及相关服务条款。\n\n五、适用人群与使用场景\n\nCyberGuard 的产品结构适合以下几类需求：\n\n* 日常网络使用者： 需要多地区节点，以满足日常网页浏览及跨境信息访问需求。\n* 影音娱乐用户： 希望根据不同地区选择节点，用于流媒体及在线视频等场景。\n* 多地区访问用户： 需要根据目标服务的地区要求切换不同网络出口。\n* 较大流量用户： 对月度流量有较高需求，希望选择更大流量规格的套餐。\n* 团队及企业用户： 有意了解大流量方案或定制化网络连接服务的用户。",
+    "created_at": "2026-10-17",
+    "score": 72.22,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 1.61
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/cyberguard",
+    "capabilities": {
+      "payment_methods": [],
+      "streaming": [],
+      "clients": [],
+      "import_methods": [],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_kingdom",
+          "label": "英国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "brazil",
+          "label": "巴西",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "france",
+          "label": "法国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": null,
+        "has_lifetime_plan": null
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    }
+  },
+  {
+    "airport_id": 63,
+    "rank": 16,
+    "name": "山水云",
+    "website": "https://47.86.34.254:5210/#/register?code=O0Q5YXWA",
+    "status": "normal",
+    "tags": [
+      "高端路线",
+      "性价比高"
+    ],
+    "node_count": 32,
+    "founded_on": "2023-06-02",
+    "plan_price_month": 9.6,
+    "has_trial": false,
+    "airport_intro": "山水云，提供丰富的中转与直连节点，协议支持 VLESS+AnyTLS。套餐配置极为灵活，不仅有 ¥14.99/月的常规套餐，还提供极具性价比的 ¥88/年 轻量套餐（64GB/月）以及不限时一次性流量包。全线路完美解锁 Netflix、ChatGPT、TikTok，涵盖全球众多冷门国家节点。",
+    "created_at": "2026-05-17",
+    "score": 71.01,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0.01
+    },
+    "score_date": "2026-11-10",
+    "report_url": null,
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        }
+      ],
+      "streaming": [],
+      "clients": [
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": true,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 100,
+    "rank": 17,
+    "name": "AVEE VPN",
+    "website": "https://aveevpn.com/account",
+    "status": "normal",
+    "tags": [
+      "新入榜",
+      "新手友好"
+    ],
+    "node_count": 12,
+    "founded_on": "2026-07-29",
+    "plan_price_month": 6.9,
+    "has_trial": false,
+    "airport_intro": "AVEE VPN 采用 VLESS + Reality 协议，公网直连。\n\n【标准线路】8 个节点：香港、日本、新加坡、美国洛杉矶、德国、丹麦（2 个）、保加利亚。\n100GB ¥6.90/月（3 台设备）、300GB ¥13.80/月（4 台设备）、1000GB ¥20.60/月（5 台设备）。\n\n【三网精品线路】洛杉矶节点，电信 CN2 GIA / 联通 9929 / 移动 CMIN2 回程，晚高峰稳定。按节点容量限量销售，不超售。\n30GB ¥17.20/月、100GB ¥54.90/月、300GB ¥164.70/月。\n\n季付 95 折、半年付 9 折、年付 8 折。人民币价格按 USDT 汇率实时折算。\n\n无需邮箱注册，生成 AVEE ID 即可使用。订阅链接一键导入 Clash Verge Rev、v2rayN、Karing、ClashMi、Shadowrocket、v2rayNG 等客户端。\n\n支付方式：支付宝、微信支付、加密货币（USDT 等）。\n\n适合需要稳定访问海外网站、流媒体和 AI 服务的个人用户，按流量计费。",
+    "created_at": "2026-10-30",
+    "score": 70.37,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": -0.08
+    },
+    "score_date": "2026-11-10",
+    "report_url": "/airports/aveevpn",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        },
+        {
+          "key": "usdt_erc20",
+          "label": "USDT-ERC20"
+        },
+        {
+          "key": "usdt_bep20",
+          "label": "USDT-BEP20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "tiktok",
+          "label": "TikTok"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "germany",
+          "label": "德国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": false
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    }
+  },
+  {
+    "airport_id": 106,
+    "rank": 2,
+    "name": "大佬云",
+    "website": "/go/dalaoyun",
+    "status": "normal",
+    "tags": [
+      "轻量套餐",
+      "AI解锁"
+    ],
+    "node_count": 63,
+    "founded_on": "2024-06-08",
+    "plan_price_month": 19.99,
+    "has_trial": false,
+    "airport_intro": "节点的延迟，就是生意的阻碍；网络的卡顿，就是成交的损失。\n别让机场速度，拖慢您赚钱的脚步。\n大佬云提供稳定的网络加速服务，支持 ChatGPT/Claude/TikTok 等服务解锁，助您出海快人一步。",
+    "created_at": "2026-11-08",
+    "score": 93.8,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/dalaoyun",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "quantumult_x",
+          "label": "Quantumult X"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "sing_box",
+          "label": "sing-box"
+        },
+        {
+          "key": "v2rayn",
+          "label": "v2rayN"
+        },
+        {
+          "key": "v2rayng",
+          "label": "v2rayNG"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "qr_code_import",
+          "label": "二维码导入"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 105,
+    "rank": 4,
+    "name": "榴莲云机场",
+    "website": "/go/liulianyun",
+    "status": "normal",
+    "tags": [
+      "性价套餐",
+      "年付优惠"
+    ],
+    "node_count": 53,
+    "founded_on": "2026-03-15",
+    "plan_price_month": 24,
+    "has_trial": false,
+    "airport_intro": "优惠活动： 新用户购买季付及以上套餐享 7 折  \n优惠码： ll88\n\n入门套餐： 年付约 8 元/月60GB  \n              :   月付折算价16.8/月140g\n支付方式： 支付宝 / 微信 / USDT\n\n简介：榴莲云机场，主要提供全站IEPL专线接入网络加速服务，\n节点覆盖【亚美地区】，支持【已实测支持的流媒体及 AI 服务】。\n希望申请贵站收录及评测，可配合提供测试账号和相关资料。\n\n成立时间：  2026/3\n翻墙协议：  VLESS\n机场面板：  WHMCS\n客户端：     定制客户端\n支付方式： 支付宝\n跨境：  IEPL专线\n\n解锁：Netflix、Youtube 、Disney+、ChatGPT、Tiktok 等\n\n套餐从【价格】24起，包含【流量及计费周期】，提供【月付／季付／年付／不限时流量包等实际选项】。设备数量、流量倍率、速率限制及退款条件均在购买前明确说明。售后通过【工单／在线客服／Telegram】受理，服务时间为【实际时间】。\n核心特点：  \n榴莲云重点突出 IEPL 专线 + 低价小流量年付套餐**。相比追求超大流量，更适合网页、社交、AI 和轻度视频等日常使用。\n\n**推荐定位：  \n低价小流量 / 年付 / IEPL / 轻度用户",
+    "created_at": "2026-11-08",
+    "score": 93.2,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/liulianyun",
+    "capabilities": {
+      "payment_methods": [
+        {
+          "key": "wechat",
+          "label": "微信"
+        },
+        {
+          "key": "alipay",
+          "label": "支付宝"
+        },
+        {
+          "key": "usdt_trc20",
+          "label": "USDT-TRC20"
+        }
+      ],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "自建客户端"
+        },
+        {
+          "key": "clash",
+          "label": "Clash"
+        },
+        {
+          "key": "clash_verge",
+          "label": "Clash Verge"
+        },
+        {
+          "key": "clash_mi",
+          "label": "Clash Mi"
+        },
+        {
+          "key": "clash_party",
+          "label": "Clash Party"
+        },
+        {
+          "key": "shadowrocket",
+          "label": "Shadowrocket"
+        },
+        {
+          "key": "stash",
+          "label": "Stash"
+        },
+        {
+          "key": "surge",
+          "label": "Surge"
+        },
+        {
+          "key": "nekobox",
+          "label": "NekoBox"
+        },
+        {
+          "key": "surfboard",
+          "label": "Surfboard"
+        },
+        {
+          "key": "xiaohuojian",
+          "label": "小火箭"
+        },
+        {
+          "key": "openclash",
+          "label": "OpenClash"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "one_click_import",
+          "label": "一键导入"
+        },
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        },
+        {
+          "key": "tutorials",
+          "label": "教程支持"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": true
+      }
+    }
+  },
+  {
+    "airport_id": 107,
+    "rank": 3,
+    "name": "云界线机场",
+    "website": "/go/yunjiexian",
+    "status": "normal",
+    "tags": [
+      "多平台支持",
+      "官方客户端"
+    ],
+    "node_count": 60,
+    "founded_on": "2026-09-01",
+    "plan_price_month": 22,
+    "has_trial": false,
+    "airport_intro": "云界线机场提供月付、年付及不限时流量套餐，节点覆盖香港、台湾、日本、新加坡和美国，并提供 Windows、macOS、Android 官方客户端及 iOS 客户端支持。",
+    "created_at": "2026-11-10",
+    "score": 93.5,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/yunjiexian",
+    "capabilities": {
+      "payment_methods": [],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "官方客户端"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        },
+        {
+          "key": "universal_subscription",
+          "label": "通用订阅"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": true,
+        "group_allows_speaking": null
+      }
+    }
+  },
+  {
+    "airport_id": 108,
+    "rank": 5,
+    "name": "闪电鼠",
+    "website": "/go/shandianshu",
+    "status": "normal",
+    "tags": [
+      "1倍节点",
+      "多设备支持"
+    ],
+    "node_count": 60,
+    "founded_on": "2026-09-01",
+    "plan_price_month": 15,
+    "has_trial": false,
+    "airport_intro": "新加坡纯专线实测参考｜全线标配最新 VLESS 协议与海外大机房专线链路，实测晚高峰百兆带宽跑满，YouTube 4K/8K 秒开不拖拽。\n\n全场景解锁表现：覆盖港/台/日/新/美等 60+ 核心节点，ChatGPT、Claude、Netflix 与 Disney+ 全绿原生解锁。\n\n安心保障机制：专人 24 小时在线售后，承诺线路故障 1 小时内急速恢复，支持不满意全额退款，平价享受企业级专线体验。\n\n服务与保障：24 小时在线客服、线路故障 1 小时内修复，用户留存率极高。",
+    "created_at": "2026-11-10",
+    "score": 92.9,
+    "score_hidden": false,
+    "score_hidden_reason": null,
+    "score_delta_vs_yesterday": {
+      "label": "对比昨天",
+      "value": 0
+    },
+    "score_date": "2026-11-11",
+    "report_url": "/airports/shandianshu",
+    "capabilities": {
+      "payment_methods": [],
+      "streaming": [
+        {
+          "key": "netflix",
+          "label": "Netflix"
+        },
+        {
+          "key": "x",
+          "label": "X (Twitter)"
+        },
+        {
+          "key": "disney_plus",
+          "label": "Disney+"
+        },
+        {
+          "key": "youtube",
+          "label": "YouTube"
+        },
+        {
+          "key": "instagram",
+          "label": "INS (Instagram)"
+        },
+        {
+          "key": "facebook",
+          "label": "Facebook"
+        },
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT"
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini"
+        }
+      ],
+      "clients": [
+        {
+          "key": "self_built_client",
+          "label": "官方客户端"
+        }
+      ],
+      "import_methods": [
+        {
+          "key": "subscription_link",
+          "label": "订阅链接"
+        }
+      ],
+      "regions": [
+        {
+          "key": "hong_kong",
+          "label": "香港",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "taiwan",
+          "label": "台湾",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "japan",
+          "label": "日本",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "singapore",
+          "label": "新加坡",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        },
+        {
+          "key": "united_states",
+          "label": "美国",
+          "line_types": [],
+          "has_residential": null,
+          "has_native_ip": null
+        }
+      ],
+      "plan": {
+        "supports_annual": true,
+        "has_lifetime_plan": true
+      },
+      "telegram": {
+        "has_group": null,
+        "group_allows_speaking": null
+      }
+    }
+  }
+]

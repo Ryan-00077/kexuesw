@@ -1,0 +1,351 @@
+/* 1. Bundled Local Inter Font */
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/inter/700.css";
+@import "@fontsource/inter/800.css";
+@import "@fontsource/inter/900.css";
+
+/* 2. Original design stylesheets */
+@import "./tailwind.css";
+@import "./report-original.css";
+@import "./news.css";
+@import "./apply-page.css";
+
+/* 3. Global Full-Site Typography Alignment */
+:root {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+html {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: #111111;
+  background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Ensure headings and core elements use full font weight and size */
+.public-top-nav {
+  font-family: var(--font-sans) !important;
+}
+
+.home-v3-hero {
+  grid-template-columns: 1fr !important;
+}
+
+.home-v3-hero-copy {
+  max-width: 860px !important;
+}
+
+.home-v3-hero h1 {
+  font-family: var(--font-sans) !important;
+  font-size: clamp(24px, 2.5vw, 32px) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.035em !important;
+}
+
+.home-v3-hero-copy > p {
+  font-size: 14px !important;
+  line-height: 1.85 !important;
+  color: #737373 !important;
+}
+
+.home-v3-metric strong {
+  font-family: var(--font-mono) !important;
+  font-size: 22px !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+}
+
+.home-v3-section-head h2 {
+  font-size: 21px !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+}
+
+/* Table readability & exact font scale */
+.home-v3-table-wrap th {
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.04em !important;
+  padding: 10px 14px !important;
+}
+
+.home-v3-table-wrap td {
+  font-size: 13px !important;
+  padding: 12px 14px !important;
+}
+
+.home-v3-airport-name {
+  font-size: 14px !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.01em !important;
+}
+
+.home-v3-tags span {
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  padding: 2px 7px !important;
+}
+
+.home-v3-table-wrap td strong {
+  font-size: 13px !important;
+  font-weight: 700 !important;
+}
+
+.home-v3-table-wrap td small {
+  font-size: 11px !important;
+  margin-top: 3px !important;
+}
+
+.home-v3-row-action {
+  font-size: 12px !important;
+  font-weight: 800 !important;
+}
+
+/* Ranking entry interactions */
+.report-link,
+.home-v3-row-action {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: color 0.18s ease, background-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.report-link:hover,
+.home-v3-row-action:hover {
+  color: #0369a1 !important;
+  background-color: #f0f9ff;
+  box-shadow: 0 2px 7px rgba(3, 105, 161, 0.14);
+  transform: translateY(-1px);
+}
+
+/* Airport review channel */
+.review-page {
+  width: min(100% - 32px, 980px);
+  margin: 0 auto;
+  padding: 42px 0 80px;
+}
+
+.review-page-head {
+  max-width: 620px;
+  margin-bottom: 24px;
+}
+
+.review-page-head > span,
+.review-meta > span {
+  color: #2563eb;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.review-page-head h1,
+.review-article h1 {
+  margin: 7px 0 10px;
+  color: #0f172a;
+  font-size: clamp(28px, 4vw, 38px);
+  letter-spacing: -.035em;
+  line-height: 1.2;
+}
+
+.review-page-head p,
+.review-lead { margin: 0; color: #64748b; line-height: 1.8; }
+
+.review-card-list { display: grid; gap: 12px; }
+
+.review-card {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  padding: 18px 20px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  transition: border-color .18s ease, box-shadow .18s ease, transform .18s ease;
+}
+
+.review-card:hover { border-color: #bfdbfe; box-shadow: 0 8px 22px rgba(15, 23, 42, .07); transform: translateY(-1px); }
+.review-card-main { min-width: 0; flex: 1; }
+.review-card-title { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.review-card-title h2 { margin: 0; color: #0f172a; font-size: 17px; }
+.review-card-title strong { color: #2563eb; font-size: 14px; }
+.review-card p { display: -webkit-box; margin: 10px 0 0; overflow: hidden; color: #64748b; font-size: 13px; line-height: 1.6; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.review-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; }
+.review-tags span { padding: 3px 7px; border-radius: 5px; background: #f1f5f9; color: #475569; font-size: 11px; font-weight: 700; }
+.review-card-side { display: grid; flex: 0 0 106px; gap: 6px; padding-left: 18px; border-left: 1px solid #eef2f7; color: #64748b; font-size: 12px; }
+.review-card-side button, .review-back { width: fit-content; border: 0; padding: 0; background: none; color: #2563eb; font: inherit; font-weight: 800; cursor: pointer; }
+.review-card-side button { margin-top: 4px; font-size: 13px; }
+.review-card-side button:hover, .review-back:hover { color: #1d4ed8; text-decoration: underline; }
+
+.review-back { margin-bottom: 20px; font-size: 14px; }
+.review-article { padding: clamp(22px, 4vw, 38px); background: #fff; border: 1px solid #e5e7eb; border-radius: 14px; }
+.review-meta { display: flex; align-items: center; gap: 10px; }
+.review-meta time { color: #64748b; font-size: 13px; }
+.review-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin: 24px 0; }
+.review-stats > div { padding: 13px; border: 1px solid #eef2f7; border-radius: 9px; background: #f8fafc; }
+.review-stats span { display: block; color: #64748b; font-size: 12px; }
+.review-stats strong { display: block; margin-top: 5px; color: #0f172a; font-size: 15px; }
+.review-article section { margin-top: 24px; }
+.review-article h2 { margin: 0 0 10px; color: #0f172a; font-size: 17px; }
+.review-summary { padding: 14px; border-radius: 9px; background: #fafafa; color: #475569; font-size: 14px; line-height: 1.85; white-space: pre-line; }
+.review-highlights { display: grid; gap: 8px; margin: 0; padding-left: 20px; color: #475569; font-size: 14px; line-height: 1.7; }
+.review-highlights li::marker { color: #2563eb; }
+.review-capability-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.review-empty { color: #94a3b8; font-size: 13px; }
+.review-article-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
+.review-official-link { display: inline-flex; margin-top: 30px; padding: 10px 16px; border-radius: 8px; background: #0f172a; color: #fff; font-size: 14px; font-weight: 800; text-decoration: none; transition: transform .18s ease, background-color .18s ease; }
+.review-article-actions .review-official-link { margin-top: 0; }
+.review-official-link:hover { background: #1e293b; transform: translateY(-1px); }
+.review-secondary-link { display: inline-flex; align-items: center; padding: 10px 16px; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; color: #334155; font-size: 14px; font-weight: 800; text-decoration: none; transition: background-color .18s ease, transform .18s ease; }
+.review-secondary-link:hover { background: #f8fafc; transform: translateY(-1px); }
+
+@media (max-width: 640px) {
+  .review-page { width: min(100% - 24px, 980px); padding-top: 28px; }
+  .review-card { align-items: flex-start; gap: 14px; padding: 15px; }
+  .review-card-side { flex-basis: 82px; padding-left: 12px; }
+  .review-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .review-capability-grid { grid-template-columns: 1fr; }
+}
+
+/* Keep desktop navigation pages comfortably behind the brand block. */
+@media (min-width: 1240px) {
+  .public-top-nav-start {
+    flex: 1 1 auto;
+  }
+
+  .public-top-nav-links {
+    margin-left: auto;
+  }
+}
+
+/* Sidebar Tool Cards readability */
+.home-v3-tools a {
+  transition: transform 0.18s ease, border-color 0.18s ease, background-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.home-v3-tools a:hover {
+  background: #ffffff !important;
+  border-color: #cbd5e1 !important;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.06);
+  transform: translateY(-1px);
+}
+
+.home-v3-tools a:hover i {
+  color: #111111 !important;
+  transform: translateY(-50%) translateX(2px);
+}
+
+.home-v3-tools a strong {
+  font-size: 13px !important;
+  font-weight: 700 !important;
+}
+
+.home-v3-tools a span {
+  font-size: 11px !important;
+  line-height: 1.45 !important;
+  color: #737373 !important;
+}
+
+/* Sidebar Deal Cards readability */
+.home-v3-deal h3 {
+  font-size: 14px !important;
+  font-weight: 800 !important;
+}
+
+.home-v3-deal-top small {
+  font-size: 11px !important;
+}
+
+.home-v3-deal-offer p {
+  font-size: 12px !important;
+  color: #525252 !important;
+}
+
+.home-v3-deal.home-v3-empty strong {
+  font-size: 12px !important;
+  font-weight: 700 !important;
+}
+
+/* Explore Card readability */
+.home-v3-explore h2 {
+  font-size: 20px !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+}
+
+.home-v3-explore p {
+  font-size: 12.5px !important;
+  line-height: 1.7 !important;
+}
+
+/* Trust & FAQ sections */
+.home-v3-trust article h3 {
+  font-size: 15px !important;
+  font-weight: 800 !important;
+}
+
+.home-v3-trust article p {
+  font-size: 13px !important;
+  line-height: 1.75 !important;
+}
+
+.home-v3-faq summary {
+  font-size: 15px !important;
+  font-weight: 800 !important;
+}
+
+.home-v3-faq p {
+  font-size: 13.5px !important;
+  line-height: 1.8 !important;
+}
+
+/* Extra polished styles for modal, interactive transitions, and toolboxes */
+.modal-backdrop {
+  background-color: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+}
+
+.copy-badge-pop {
+  animation: popBadge 0.25s ease-out;
+}
+
+@keyframes popBadge {
+  0% { transform: scale(0.9); opacity: 0.5; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

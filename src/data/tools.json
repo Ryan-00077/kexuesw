@@ -1,0 +1,89 @@
+[
+  {
+    "id": "clash-verge-rev",
+    "name": "Clash Verge Rev",
+    "category": "桌面端",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "description": "新一代 Clash 桌面客户端，支持 Clash Meta 核心，界面现代化且功能完备。",
+    "recommended": true,
+    "version": "v2.0.4",
+    "icon": "laptop",
+    "downloadUrl": "https://github.com/clash-verge-rev/clash-verge-rev/releases"
+  },
+  {
+    "id": "sing-box",
+    "name": "sing-box",
+    "category": "全平台通用",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "description": "通用代理平台，支持所有流行协议（VLESS、Shadowsocks、Hysteria2、TUIC 等），性能强悍极致省电。",
+    "recommended": true,
+    "version": "v1.11.0",
+    "icon": "box",
+    "downloadUrl": "https://github.com/SagerNet/sing-box/releases"
+  },
+  {
+    "id": "shadowrocket",
+    "name": "Shadowrocket (小火箭)",
+    "category": "iOS / iPadOS",
+    "platforms": [
+      "iOS",
+      "iPadOS"
+    ],
+    "description": "iOS 首选代理工具，规则分流完善，支持节点测速、URL Test 与自动化切换。",
+    "recommended": true,
+    "version": "最新版",
+    "icon": "smartphone",
+    "downloadUrl": "https://apps.apple.com/app/shadowrocket/id932747118"
+  },
+  {
+    "id": "nekobox",
+    "name": "NekoBox for Android",
+    "category": "Android 移动端",
+    "platforms": [
+      "Android"
+    ],
+    "description": "基于 sing-box 核心的 Android 代理客户端，支持各类现代专线协议与便捷订阅。",
+    "recommended": true,
+    "version": "v1.3.3",
+    "icon": "smartphone",
+    "downloadUrl": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases"
+  },
+  {
+    "id": "v2rayn",
+    "name": "v2rayN",
+    "category": "Windows 客户端",
+    "platforms": [
+      "Windows"
+    ],
+    "description": "经典 Windows GUI 客户端，支持 Xray 与 sing-box 双核心，测速与批量管理首选。",
+    "recommended": false,
+    "version": "v7.1.5",
+    "icon": "laptop",
+    "downloadUrl": "https://github.com/2dust/v2rayN/releases"
+  },
+  {
+    "id": "stash",
+    "name": "Stash",
+    "category": "Apple 生态",
+    "platforms": [
+      "iOS",
+      "macOS",
+      "tvOS"
+    ],
+    "description": "基于 Clash 规则的苹果生态高级代理客户端，支持全协议与家庭网络接管。",
+    "recommended": false,
+    "version": "v2.6.0",
+    "icon": "apple",
+    "downloadUrl": "https://apps.apple.com/app/stash-rule-based-proxy/id1596063349"
+  }
+]
