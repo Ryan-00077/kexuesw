@@ -12,7 +12,7 @@ const goRedirects = {
 };
 
 export default defineConfig({
-  base: './',
+  base: '/',
   plugins: [
     react(),
     tailwindcss(),
