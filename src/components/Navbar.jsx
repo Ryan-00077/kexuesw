@@ -33,10 +33,10 @@ export default function Navbar({ currentRoute, setCurrentRoute, onSelectArticle,
               onClick={(e) => handleNav('home', e)}
               data-client-nav="true"
             >
-              <span className="public-top-nav-brand-mark" aria-hidden="true">
+              <span className="public-top-nav-brand-mark">
                 <img 
                   src="/logo-white-transparent.png" 
-                  alt="Node" 
+                  alt="科学上网 · Node Logo" 
                   style={{ width: '22px', height: '22px', objectFit: 'contain', display: 'block' }} 
                 />
               </span>

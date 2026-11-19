@@ -12,10 +12,10 @@ export default function Footer({ setCurrentRoute, onSelectArticle, onSelectRevie
 
   return (
     <footer className="footer">
-      <span className="footer-mark" aria-hidden="true">
+      <span className="footer-mark">
         <img 
           src="/logo-white-transparent.png" 
-          alt="Node" 
+          alt="科学上网 · Node Logo" 
           style={{ width: '26px', height: '26px', objectFit: 'contain', display: 'block' }} 
         />
       </span>

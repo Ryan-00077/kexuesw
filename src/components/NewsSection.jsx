@@ -46,10 +46,10 @@ export default function NewsSection({ setCurrentRoute, onSelectArticle }) {
                 }}
               >
                 {item.cover_image_url && (
-                  <span className="home-v3-news-thumb" aria-hidden="true">
+                  <span className="home-v3-news-thumb">
                     <img 
                       src={resolveAssetUrl(item.cover_image_url)} 
-                      alt="" 
+                      alt={item.title} 
                       width="112" 
                       height="80" 
                       loading="lazy" 
