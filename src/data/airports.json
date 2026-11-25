@@ -22,7 +22,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/huanqiuti",
     "capabilities": {
       "payment_methods": [
@@ -164,7 +164,7 @@
       "label": "对比昨天",
       "value": -0.03
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/nowjiasu",
     "capabilities": {
       "payment_methods": [
@@ -614,7 +614,7 @@
       "label": "对比昨天",
       "value": 1.12
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/qingyudaohang",
     "capabilities": {
       "payment_methods": [
@@ -794,7 +794,7 @@
       "label": "对比昨天",
       "value": -0.69
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/w2-whengdl",
     "capabilities": {
       "payment_methods": [
@@ -996,7 +996,7 @@
       "label": "对比昨天",
       "value": 0.2
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/xianluwan",
     "capabilities": {
       "payment_methods": [
@@ -1254,7 +1254,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/shenxing",
     "capabilities": {
       "payment_methods": [
@@ -1470,7 +1470,7 @@
       "label": "对比昨天",
       "value": 0.81
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/web-hereyun",
     "capabilities": {
       "payment_methods": [
@@ -1745,7 +1745,7 @@
       "label": "对比昨天",
       "value": null
     },
-    "score_date": null,
+    "score_date": "2026-11-25",
     "report_url": null,
     "capabilities": {
       "payment_methods": [
@@ -1860,7 +1860,7 @@
       "label": "对比昨天",
       "value": 0.32
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/elphantroute",
     "capabilities": {
       "payment_methods": [
@@ -2157,7 +2157,7 @@
       "label": "对比昨天",
       "value": null
     },
-    "score_date": null,
+    "score_date": "2026-11-25",
     "report_url": null,
     "capabilities": {
       "payment_methods": [
@@ -2260,7 +2260,7 @@
       "label": "对比昨天",
       "value": null
     },
-    "score_date": null,
+    "score_date": "2026-11-25",
     "report_url": null,
     "capabilities": {
       "payment_methods": [
@@ -2450,7 +2450,7 @@
       "label": "对比昨天",
       "value": -0.64
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/maplerelay",
     "capabilities": {
       "payment_methods": [
@@ -2670,7 +2670,7 @@
       "label": "对比昨天",
       "value": -0.03
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/ly888-liydl",
     "capabilities": {
       "payment_methods": [
@@ -2870,7 +2870,7 @@
       "label": "对比昨天",
       "value": -0.58
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/bktg-jsjc456789",
     "capabilities": {
       "payment_methods": [
@@ -3177,7 +3177,7 @@
       "label": "对比昨天",
       "value": -0.39
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/cl888-cailudl",
     "capabilities": {
       "payment_methods": [
@@ -3376,7 +3376,7 @@
       "label": "对比昨天",
       "value": 0.31
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/y1-yihaodlu",
     "capabilities": {
       "payment_methods": [
@@ -3575,7 +3575,7 @@
       "label": "对比昨天",
       "value": -0.59
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/ccc-jichang",
     "capabilities": {
       "payment_methods": [
@@ -3782,7 +3782,7 @@
       "label": "对比昨天",
       "value": 0.11
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/andygw",
     "capabilities": {
       "payment_methods": [
@@ -3985,7 +3985,7 @@
       "label": "对比昨天",
       "value": 1.61
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/cyberguard",
     "capabilities": {
       "payment_methods": [],
@@ -4083,7 +4083,7 @@
       "label": "对比昨天",
       "value": 0.01
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": null,
     "capabilities": {
       "payment_methods": [
@@ -4199,7 +4199,7 @@
       "label": "对比昨天",
       "value": -0.08
     },
-    "score_date": "2026-11-10",
+    "score_date": "2026-11-25",
     "report_url": "/airports/aveevpn",
     "capabilities": {
       "payment_methods": [
@@ -4368,7 +4368,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/dalaoyun",
     "capabilities": {
       "payment_methods": [
@@ -4577,7 +4577,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/liulianyun",
     "capabilities": {
       "payment_methods": [
@@ -4766,7 +4766,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/yunjiexian",
     "capabilities": {
       "payment_methods": [],
@@ -4894,7 +4894,7 @@
       "label": "对比昨天",
       "value": 0
     },
-    "score_date": "2026-11-11",
+    "score_date": "2026-11-25",
     "report_url": "/airports/shandianshu",
     "capabilities": {
       "payment_methods": [],
